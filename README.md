@@ -16,8 +16,8 @@
 
   - 🎓 **CURSO:** Engenharia de Software (em andamento)
   - ⚙️ **CORE:** Back End Development & Arquitetura de Software
-  - 🛠️ **SKILLS:** Python, HTML5, VSCODE, JavaScript, Git, SQL
-  - ⚡ **STATUS:** Always Learning & Coding...
+  - 🛠️ **SKILLS:** Python, HTML5, VSCODE
+  - ⚡ **STATUS:** Learning & Coding...
 
   <br>
   <hr style="border-top: 1px solid #FFD100;">
