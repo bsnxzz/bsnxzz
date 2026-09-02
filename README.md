@@ -13,7 +13,7 @@
 
 ### ⚡ [01] PROFILE_INFO
 
-<p align="left">
+<p align="left"> 
   <img align="right" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWxxcnhmdTFsbWNwbWR5bnpwbmdydWVmcWZ0MGlrdTBld3BxNDdzaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/k3316vCCW7ZXZKT7iE/giphy.gif" width="230px" alt="Profile GIF">
   
   - 🎓 **CURSO:** Engenharia de Software (em andamento)
