@@ -64,5 +64,3 @@
 
 <div align="center">
   <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=bsnxzz&show_icons=true&theme=dark&include_all_commits=true"/>
-  <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=bsnxzz&layout=compact&theme=dark"/>
-</div>
