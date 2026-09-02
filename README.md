@@ -5,9 +5,8 @@
   <br>
 
   <!-- TEXTO PISCANDO / ALTERNANDO EM AMARELO -->
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=1000&color=FFD700&center=true&vCenter=true&width=600&height=70&lines=⚡+BRUNO+NASCIMENTO+⚡;⚡+Back+End+Developer+⚡;⚡+Software+Engineer+⚡;⚡+Loading...+⚡" alt="Typing SVG" />
-  </a>
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=26&pause=1000&color=FFD700&center=true&vCenter=true&width=600&height=50&lines=%E2%9A%A1+BRUNO+NASCIMENTO+%E2%9A%A1;%E2%9A%A1+Back+End+Developer+%E2%9A%A1;%E2%9A%A1+Software+Engineer+%E2%9A%A1;%E2%9A%A1+Loading...+%E2%9A%A1" alt="Typing SVG" />
 </div>
 
 <hr>
