@@ -1,4 +1,4 @@
-# Olá, eu sou o Bruno! 👋
+# Olá, eu sou o Bruno! 😄
 
 <div align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWxxcnhmdTFsbWNwbWR5bnpwbmdydWVmcWZ0MGlrdTBld3BxNDdzaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/k3316vCCW7ZXZKT7iE/giphy.gif" width="600px" alt="Coding GIF">
@@ -10,6 +10,7 @@
 - 🚀 Cursando **Engenharia de Software**
 - 🐍 Focado em **Python** e desenvolvimento **Web**
 - 💡 Buscando sempre aprender novas tecnologias e criar projetos práticos
+
 <br>
 
 ### 🛠️ Tecnologias e Ferramentas
@@ -23,8 +24,7 @@
 </p>
 
 <br>
-
----
+<hr>
 
 ### 📊 Minhas Estatísticas
 <div align="center">
