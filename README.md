@@ -1,9 +1,8 @@
 <div align="center">
   <!-- BANNER COM ONDAS AMARELAS E SEU NOME PISCANDO -->
-  <a href="https://git.io/typing-svg">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=FFD700&height=180&section=header&stroke=FFCC00&text=BRUNO+NASCIMENTO&fontSize=42&fontAlignY=40&fontColor=000000&descAlignY=60&descAlign=50" width="100%" />
-  </a>
-
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=26&pause=1000&color=FFD700&center=true&vCenter=true&width=600&height=50&lines=%E2%9A%A1+BRUNO+NASCIMENTO+%E2%9A%A1;%E2%9A%A1+Back+End+Developer+%E2%9A%A1;%E2%9A%A1+Software+Engineer+%E2%9A%A1;%E2%9A%A1+Loading...+%E2%9A%A1" alt="Typing SVG" />
+</div>
   <br>
 
   <!-- ANIMAÇÃO DE DIGITAÇÃO EM LOOP NEON AMARELO -->
