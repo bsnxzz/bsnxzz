@@ -43,7 +43,21 @@
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
 </p>
+<hr>
 
+### ⚡ [03] CONNECT_TERMINAL
+
+<p align="left">
+  <!-- BOTÃO LINKEDIN -->
+  <a href="https://www.linkedin.com/in/bruno-nascimento-4a2411315/" target="_blank">
+    <img src="https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn" />
+  </a>
+  &nbsp;
+  <!-- BOTÃO EMAIL -->
+  <a href="mailto:bruno.rafaell1230@gmail.com">
+    <img src="https://img.shields.io/badge/EMAIL-000000?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Email" />
+  </a>
+</p>
 <hr>
 
 ### 📊 STATS_OVERVIEW
