@@ -1,6 +1,6 @@
 <!-- CABEÇALHO (BANNER E TÍTULO) - CENTRALIZADOS -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=FFD100&height=280&section=header&stroke=FFD100&text=BRUNO+NASCIMENTO&fontSize=50&fontColor=000000" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=FFD100&height=300&section=header&stroke=FFD100&text=BRUNO+NASCIMENTO&fontSize=50&fontColor=000000" width="100%" />
   
   <br>
   
