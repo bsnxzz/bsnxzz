@@ -29,7 +29,7 @@
     </td>
   </tr>
 </table>
-  ⚡ ##[02] PROJECTS_DATABASE##
+  ⚡ **[02] PROJECTS_DATABASE**
 
   > **> SISTEMA DE PROJETOS E REPOSITÓRIOS**
   >
