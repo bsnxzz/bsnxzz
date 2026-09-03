@@ -12,16 +12,23 @@
 <!-- CONTEÚDO PRINCIPAL - ALINHADO À ESQUERDA -->
 <div align="left">
 
-  ### ⚡ [01] PROFILE_INFO
+<table>
+  <tr>
+    <td valign="top" width="60%">
 
-  - 🎓 **CURSO:** Engenharia de Software (em andamento)
-  - ⚙️ **CORE:** Back End Development & Arquitetura de Software
-  - 🛠️ **SKILLS:** Python, HTML5, VSCODE
-  - ⚡ **STATUS:** Learning & Coding...
+⚡ **[01] PROFILE_INFO**
 
-  <br>
-  <hr style="border-top: 1px solid #FFD100;">
+* 🎓 **CURSO:** Engenharia de Software (em andamento)
+* ⚙️ **CORE:** Back End Development & Arquitetura de Software
+* 🛠️ **SKILLS:** Python, HTML5, VSCODE
+* ⚡ **STATUS:** Learning & Coding...
 
+    </td>
+    <td align="center" valign="middle" width="40%">
+      <img src="https://giffiles.alphacoders.com/209/209880.gif" width="100%" alt="Minato GIF">
+    </td>
+  </tr>
+</table>
   ### ⚡ [02] PROJECTS_DATABASE
 
   > **> SISTEMA DE PROJETOS E REPOSITÓRIOS**
